@@ -1,10 +1,10 @@
 # Charts for archaeology
 
-Various charts and other aids for documentation work.
+Various charts and other aids for pottery documentation work.
 
 ## Rim diameter charts
 
-See [Rim diameter charts](rim-diameter-chart) up to 80cm diameter in 10mm and 2mm accuracy.
+See [Rim diameter charts](RimDiameterChart) up to 80cm diameter in 10mm and 2mm accuracy with 5% and 1% divisions.
 
 ## License
 
