@@ -4,7 +4,7 @@ Various charts and other aids for pottery documentation work.
 
 ## Rim diameter charts
 
-See [Rim diameter charts](RimDiameterChart) up to 80cm diameter in 10mm and 2mm accuracy with 5% and 1% divisions.
+See [Rim diameter charts](RimDiameterChart/pdf/) up to 80cm diameter in 10mm and 2mm accuracy with 5% and 1% divisions.
 
 ## License
 
